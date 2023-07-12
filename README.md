@@ -1,1 +1,6 @@
-# Projects
+# Projects :
+[ 1. Vehicle Speed Detection using Machine Learning ](https://github.com/Jeyaprathap2001/Projects/tree/6e2e7a589600b7e129607bd3ba1971ea3d230fa0/PROJECTS/1.%20Vehicle%20Speed%20Detection%20using%20Machine%20Learning)<br>
+[ 2. University Admit Eligibility Predictor using ADS (IBM Externship) ](https://github.com/Jeyaprathap2001/Projects/tree/6e2e7a589600b7e129607bd3ba1971ea3d230fa0/PROJECTS/2.%20University%20Admit%20Eligibility%20Predictor%20using%20ADS%20(IBM%20Externship))<br>
+[ 3. Innovative IOT Solutions for Contactless Attendance system with Temperature detection ](https://github.com/Jeyaprathap2001/Projects/tree/6e2e7a589600b7e129607bd3ba1971ea3d230fa0/PROJECTS/3.%20Innovative%20IOT%20Solutions%20for%20Contactless%20Attendance%20system%20with%20Temperature%20detection)<br>
+[ 4. Multi Modal based Stress Detection and Reliever using Machine Learning ](https://github.com/Jeyaprathap2001/Projects/tree/6e2e7a589600b7e129607bd3ba1971ea3d230fa0/PROJECTS/4.%20Multi%20Modal%20based%20Stress%20Detection%20and%20Reliever%20using%20Machine%20Learning)<br>
+[ 5. Human Fall Detection using AIOT with Python ](https://github.com/Jeyaprathap2001/Projects/tree/6e2e7a589600b7e129607bd3ba1971ea3d230fa0/PROJECTS/5.%20Human%20Fall%20Detection%20using%20AIOT%20with%20Python)<br>
