@@ -31,11 +31,3 @@ To get the project up and running, complete the following steps:
 4. Start the development environment: `npm run dev`
 5. Open your browser and visit <http://localhost:3000>
 
-Feel free to browse with the intention of buying a few cars. Upon proceeding to checkout, you will be asked to login before being allowed to proceed with the purchase.
-You can use my ID & PW for testing. However, if you want to see what the "forgot password" workflow is like, you can register your own email, or refer to the gif below!
-
-`ID: bryancodes@gmail.com`
-`PW:123456`
-
-![E-Kars Forgot Password Workflow](images/ekars_forgotpassword.gif)
-_E-Kars Stripe Payment Demo_
