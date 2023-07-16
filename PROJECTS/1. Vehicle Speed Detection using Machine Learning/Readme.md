@@ -25,9 +25,9 @@ It will alert via python shell.
 
 To get the project up and running, complete the following steps:
 
-1. Download and install Node: <https://nodejs.org/>
-2. Clone this repo: `git clone https://github.com/bryanyi/e-kars.git` (HTTPS)
-3. Install project dependancies: `npm install`
-4. Start the development environment: `npm run dev`
-5. Open your browser and visit <http://localhost:3000>
-
+1. Download and install Python 3.9: <https://www.python.org/downloads/>
+2. Clone this repo: `git clone https://github.com/Jeyaprathap2001/Jeya-Prathap-Portfolio.git` (HTTPS)
+3. Install project dependancies: `pip install`
+4. Start the project by cmd: `python3 vehicle_speed.py`
+5. you will see the result.
+ 
