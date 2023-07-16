@@ -31,10 +31,6 @@ To get the project up and running, complete the following steps:
 4. Start the development environment: `npm run dev`
 5. Open your browser and visit <http://localhost:3000>
 
-## LOGIN with my test account.
-
-![Ekars Login](images/ekars_login.png)
-
 Feel free to browse with the intention of buying a few cars. Upon proceeding to checkout, you will be asked to login before being allowed to proceed with the purchase.
 You can use my ID & PW for testing. However, if you want to see what the "forgot password" workflow is like, you can register your own email, or refer to the gif below!
 
