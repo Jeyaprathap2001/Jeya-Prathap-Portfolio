@@ -1,28 +1,25 @@
-# E-Kars: The Amazon of Used Electric Cars
-<!--
-## [LIVE LINK](https://e-kars.herokuapp.com/)
--->
-E-Kars is a (hypothetical) e-Commerce project that sells used electric cars. Features include full user authentication (register, login, and forgotpassword with Nodemailer), Stripe payment system, and Redux for state management.
+# **Vehicle Speed Detection using Machine Learning**
 
-![E-Kars Demo](images/ekars_gif_1.gif)
-_E-Kars Overview_
+Vehicle speed detection is a fascinating application of Machine Learning and Python that can contribute to various fields, such as traffic management, law enforcement, and road safety. The project aims to develop a system that can automatically estimate the speed of vehicles from video footage or image sequences captured by cameras placed alongside roads or highways, counts the car, detects color of the cars and alert if speed exceeds then alert user and traffic management.
 
-![E-Kars Home Page](images/ekars_homepage.gif)
-_E-Kars Home Page_
+![Vehicle Speed Detection using Machine Learning project Demo](images/ekars_gif_1.gif)
+_Vehicle Speed Detection using Machine Learning project Demo_
 
-On the products page, you can place multiple filters with the sidebar on the left. Using Redux was extremely useful in order to pass multiple levels of state between each React component.
+![Vehicle Speed Detection using Machine Learning project Home Page](images/ekars_homepage.gif)
+_Vehicle Speed Detection using Machine Learning project Homepage_
 
-![E-Kars Demo](images/ekars_productsPage.gif)
-_E-Kars Product Page_
+On the main page, it will start detect vehicles speed continuously in rear view of the camera point of view.
 
-I created a custom form using Stripe for check out. However, to get to this page, you must be logged in first. See below to use my test account!
+![Vehicle Speed Detection using Machine Learning project Alert page](images/ekars_productsPage.gif)
+_Vehicle Speed Detection using Machine Learning project -- Alert output_
 
-![E-Kars Stripe](images/ekars_stripe_checkout2.gif)
-_E-Kars Stripe Payment Demo_
+It will alert via python shell.
 
 ## Technologies Used
 
-React.js, Redux, Node.js/Express, MongoDB/Mongoose, Stripe, Nodemailer
+* Python
+* Machine Learning
+* OpenCV
 
 ## Getting Started
 
